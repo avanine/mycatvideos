@@ -12,7 +12,7 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>Hello World!!</h1>
       <EmbeddedVideo link="https://www.youtube.com/embed/9VC_5Cxg1NM?si=NW7I7JEctSnKRW0W" />
     </div>
   );
