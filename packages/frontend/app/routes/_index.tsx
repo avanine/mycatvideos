@@ -1,6 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
 
-import EmbeddedVideo from "~/ui/EmbeddedVideo";
+import EmbeddedVideo from "../ui/EmbeddedVideo";
 
 export const meta: MetaFunction = () => {
   return [
