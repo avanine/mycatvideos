@@ -16,7 +16,6 @@ const EmbeddedVideo: React.FC<EmbeddedVideoProps> = ({ link }) => {
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       referrerPolicy="strict-origin-when-cross-origin"
       allowFullScreen
-      style={{ border: 0, padding: '10px' }}
     ></iframe>
   );
 };
